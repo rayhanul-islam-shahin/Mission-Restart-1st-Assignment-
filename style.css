@@ -1,0 +1,9 @@
+.banner {
+  height: 70vh;
+  background-image: 
+    linear-gradient(to right, #000000, #00000000),
+    url('./Assets/banner-image.png');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
